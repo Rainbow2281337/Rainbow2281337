@@ -14,14 +14,14 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 22 years old Front-End developer from Ukraine</h3>
+  <h3> I'm 22 years old Front-End developer | Manual QA from Ukraine</h3>
 </p>
 
  - 🥀 Learning Ionic & NestJS
  
  - <i>with Javascript, Typescript, Angular and 69 others.</i>
  
- - I do front-end, fullstack and a bit of everything :heart:
+ - I do front-end, fullstack, testing and a bit of everything :heart:
  
  - All About living life at its best.
  
